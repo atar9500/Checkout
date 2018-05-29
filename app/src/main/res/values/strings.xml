@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkout</string>
+    <string name="could_not_connect">Could not connect to PlayStore, please try again later</string>
+    <string name="something_went_wrong">Something went wrong, please try again later</string>
+    <string name="no_products_were_found">No products were found!</string>
+    <string name="no_purchases_were_found">No purchases were found</string>
+    <string name="could_not_make_purchase">Could not make purchase</string>
+</resources>
